@@ -3,7 +3,7 @@
 
 ## Preview
 
-![image](https://github.com/Alok-2002/Netflix_Home_Page_Using_HTML_And_CSS/assets/93814546/4959b8ef-266f-4194-8709-b90223d69b2e)
+![image](https://github.com/dokkumeme/Netflix/blob/main/Assets/Snap%20picture%20of%20webpage%20dokkumeme.png)
 
 ## Features
 

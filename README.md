@@ -23,8 +23,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 ## Acknowledgements
 
 - The design and inspiration for this project come from the official Netflix website.
-<<<<<<< HEAD
-- Special thanks to the open-source community for providing helpful resources and tutorials on web development.
-=======
 - Special thanks to the open-source community for providing helpful resources and tutorials on web development.
 

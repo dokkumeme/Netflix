@@ -1,4 +1,5 @@
 # Netflix-Clone
+<<<<<<< HEAD
  I tried to create a clone of a Netflix using Html and Css only. It is just Design of a Netflix not a fully functionable webpage. It is a Open Source You can fork and use it for Your Projects 
 
 ## Preview
@@ -24,3 +25,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 
 - The design and inspiration for this project come from the official Netflix website.
 - Special thanks to the open-source community for providing helpful resources and tutorials on web development.
+=======
+ I tried to create a clone of a Netflix using Html and Css only. It is just Design of a Netflix not a fully functionable webpage. It is a Open Source You can fork and use it for Your Projects.
+>>>>>>> bda678007b5bf4d76c76eced599423a163e0e775

@@ -27,4 +27,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 - Special thanks to the open-source community for providing helpful resources and tutorials on web development.
 =======
 - Special thanks to the open-source community for providing helpful resources and tutorials on web development.
->>>>>>> 002b37324ded7b204b7ce2898a52ef8c5711354a
+

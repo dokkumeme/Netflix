@@ -3,7 +3,7 @@
 
 ## Preview
 
-![image](https://github.com/dokkumeme/Netflix/blob/main/Assets/Snap%20picture%20of%20webpage%20dokkumeme.png)
+![image](https://telegra.ph/file/e54e698083ce4e1f77c18.jpg)
 
 ## Features
 
